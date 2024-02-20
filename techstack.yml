@@ -1,0 +1,312 @@
+repo_name: ibrahimbdr/Learn-React-Hooks
+report_id: 6f04ab3fc66df3b16393c13e9a92a547
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T12:32:17+00:00'
+requested_by: Packt-ITService
+provider: github
+branch: master
+detected_tools_count: 23
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks
+  detection_source: Repo Metadata
+- name: MobX
+  description: Simple, scalable state management
+  website_url: https://github.com/mobxjs/mobx
+  version: 5.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5302/17475736.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter13/chapter13_1/package-lock.json
+  detection_source: Chapter13/chapter13_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-08-13 10:38:49.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter01/chapter1_1/package-lock.json
+  detection_source: Chapter01/chapter1_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.4
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter12/chapter12_1/package-lock.json
+  detection_source: Chapter12/chapter12_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-08-04 13:10:22.000000000 Z
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter12/chapter12_1/package.json
+  detection_source: Chapter12/chapter12_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-08-04 13:10:22.000000000 Z
+- name: reselect
+  description: Selector library for Redux
+  website_url: https://github.com/reactjs/reselect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/7757/13142323.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter12/chapter12_4/package.json
+  detection_source: Chapter12/chapter12_4/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-08-10 19:47:58.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter09/chapter9_1/package.json
+  detection_source: Chapter09/chapter9_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-06-23 13:05:53.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter13/chapter13_1/package.json
+  detection_source: Chapter13/chapter13_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-08-13 10:38:49.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter06/chapter6_3/package-lock.json
+  detection_source: Chapter06/chapter6_3/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-05-26 15:59:54.000000000 Z
+- name: navi
+  description: An interactive cheatsheet tool for the command-line
+  website_url: https://github.com/denisidoro/navi
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shell Utilities
+  image_url: https://img.stackshare.io/service/11380/no-img-open-source.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter07/chapter7_2/package.json
+  detection_source: Chapter07/chapter7_2/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-06-04 09:02:57.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter10/chapter10_4/package-lock.json
+  detection_source: Chapter10/chapter10_4/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter06/chapter6_1/package-lock.json
+  detection_source: Chapter06/chapter6_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-10 13:41:20.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter09/chapter9_1/package-lock.json
+  detection_source: Chapter09/chapter9_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: http-proxy-middleware
+  description: The one-liner node.js proxy middleware for connect
+  package_url: https://www.npmjs.com/http-proxy-middleware
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter01/chapter1_1/package-lock.json
+  detection_source: Chapter06/chapter6_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-05-23 09:03:32.000000000 Z
+- name: json-server
+  description: Serves JSON files through REST routes
+  package_url: https://www.npmjs.com/json-server
+  version: 0.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17570/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter06/chapter6_1/package-lock.json
+  detection_source: Chapter06/chapter6_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-10 13:41:20.000000000 Z
+- name: mobx-react
+  description: React bindings for MobX. Create fully reactive components
+  package_url: https://www.npmjs.com/mobx-react
+  version: 6.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16661/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter13/chapter13_1/package-lock.json
+  detection_source: Chapter13/chapter13_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter01/chapter1_1/package-lock.json
+  detection_source: Chapter01/chapter1_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter12/chapter12_1/package-lock.json
+  detection_source: Chapter12/chapter12_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 2.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter01/chapter1_1/package-lock.json
+  detection_source: Chapter01/chapter1_1/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ibrahimbdr/Learn-React-Hooks/blob/master/Chapter10/chapter10_4/package-lock.json
+  detection_source: Chapter10/chapter10_4/package.json
+  last_updated_by: Daniel Bugl
+  last_updated_on: 2019-09-19 11:18:26.000000000 Z
